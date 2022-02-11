@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.bffb2208.js",
+    "main.css": "/static/css/main.25940000.css",
+    "main.js": "/static/js/main.1d5d9f21.js",
+    "static/media/Futura Bold.otf": "/static/media/Futura Bold.b3dd2dcb9b51257052ca.otf",
+    "static/media/devpost.svg": "/static/media/devpost.97621b9cf9ffa1fd89cba279ad31ec3d.svg",
+    "static/media/github.svg": "/static/media/github.11a5bdb0320ba839542a6d0aeafa1271.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.bffb2208.js.map": "/static/js/main.bffb2208.js.map"
+    "static/media/linkedin.svg": "/static/media/linkedin.0b9aabd6ff9747f7a9f2cb743fd8ace1.svg",
+    "main.25940000.css.map": "/static/css/main.25940000.css.map",
+    "main.1d5d9f21.js.map": "/static/js/main.1d5d9f21.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.bffb2208.js"
+    "static/css/main.25940000.css",
+    "static/js/main.1d5d9f21.js"
   ]
 }
